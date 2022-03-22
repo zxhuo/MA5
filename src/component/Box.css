@@ -1,0 +1,22 @@
+.box-white{
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+    background: white;
+    border: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-black{
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+    background: black;
+    border: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
